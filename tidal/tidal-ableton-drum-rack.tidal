@@ -1,8 +1,20 @@
 let kick = n "c3" # s "tidal1"
 
-d1 $ n "c3*4 7 12" # sound "tidal1"
+let snare = n "cs3" # s "tidal1"
 
-d2 $ kick*4
+let tom = n "a3" # s "tidal1"
+
+d1 $ struct "t(3,8)" $ kick
+
+d2 $ struct "0101" $ snare
+
+d3 $ struct "0 001 0 0" $ tom
+
+d1 $ stack [
+  struct "t(3,8)" $ kick,
+  struct "0101" $ snare,
+  struct "0 001 0 0" $ tom
+  ]
 
 -- this works I am psyched!
 d2 $ ccv "20 40 60 80 100" # ccn 30 # s "tidal1"
