@@ -4,19 +4,24 @@ let snare = n "cs3" # s "tidal1"
 
 let tom = n "a3" # s "tidal1"
 
+let hat = n "fs3" # s "tidal1"
+
 d1 $ struct "t(3,8)" $ kick
 
 d2 $ struct "0101" $ snare
 
-d3 $ struct "0 001 0 0" $ tom
+d3 $ struct "01" $ tom
 
+d4 $ struct "01010101" $ hat
+ 
 d1 $ stack [
   struct "t(3,8)" $ kick,
   struct "0101" $ snare,
-  struct "0 001 0 0" $ tom
+  struct "01" $ tom,
+  struct "01010101" $ hat
   ]
 
--- this works I am psyched!
-d2 $ ccv "20 40 60 80 100" # ccn 30 # s "tidal1"
+-- d2 $ ccv "20 40 60 80 100" # ccn 1 # s "tidal1"
 
-d2 $ ccn "30*4" # ccv (range 20 100 $ slow 30 sine) # s "tidal1"
+-- TODO try and make this a one-off
+d2 $ ccn "1*4" # ccv (range 20 100 $ slow 30 sine) # s "tidal1"

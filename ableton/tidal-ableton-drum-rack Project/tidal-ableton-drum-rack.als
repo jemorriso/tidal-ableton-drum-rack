@@ -45,8 +45,8 @@
 					<AutomationLanes>
 						<AutomationLanes>
 							<AutomationLane Id="0">
-								<SelectedDevice Value="77" />
-								<SelectedEnvelope Value="0" />
+								<SelectedDevice Value="1" />
+								<SelectedEnvelope Value="4" />
 								<IsContentSelectedInDocument Value="true" />
 								<LaneHeight Value="68" />
 							</AutomationLane>
@@ -54,8 +54,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="77" />
-						<SelectedEnvelope Value="0" />
+						<SelectedDevice Value="1" />
+						<SelectedEnvelope Value="4" />
 						<PreferModulationVisible Value="false" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -70,8 +70,8 @@
 					</AudioInputRouting>
 					<MidiInputRouting>
 						<Target Value="MidiIn/External.All/-1" />
-						<UpperDisplayString Value="Ext: All Ins" />
-						<LowerDisplayString Value="" />
+						<UpperDisplayString Value="All Ins" />
+						<LowerDisplayString Value="All Channels" />
 						<MpeSettings>
 							<ZoneType Value="0" />
 							<FirstNoteChannel Value="1" />
@@ -900,8 +900,8 @@
 								<ModulationSourceCount Value="0" />
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="22156" />
-								<LastSelectedTimeableIndex Value="0" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastSelectedTimeableIndex Value="4" />
+								<LastSelectedClipEnvelopeIndex Value="4" />
 								<LastPresetRef>
 									<Value>
 										<FilePresetRef Id="6">
@@ -1140,7 +1140,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -3299,7 +3299,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -5458,7 +5458,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -7617,7 +7617,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="55">
+																												<FileRef Id="56">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -10081,7 +10081,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Combo 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Combo 606.aif" />
@@ -12242,7 +12242,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
@@ -14404,7 +14404,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
@@ -16565,7 +16565,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
@@ -18554,7 +18554,7 @@
 											<Annotation Value="" />
 											<MemorizedFirstClipName Value="" />
 										</Name>
-										<IsSelected Value="true" />
+										<IsSelected Value="false" />
 										<DeviceChain>
 											<MidiToAudioDeviceChain Id="0">
 												<Devices>
@@ -18727,7 +18727,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Closed 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Closed 606.aif" />
@@ -20888,7 +20888,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
@@ -23050,7 +23050,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Open 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Open 606.aif" />
@@ -25211,7 +25211,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
@@ -27199,7 +27199,7 @@
 											<Annotation Value="" />
 											<MemorizedFirstClipName Value="" />
 										</Name>
-										<IsSelected Value="false" />
+										<IsSelected Value="true" />
 										<DeviceChain>
 											<MidiToAudioDeviceChain Id="0">
 												<Devices>
@@ -27372,7 +27372,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Kick/Kick 606.wav" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Kick/Kick 606.wav" />
@@ -29533,7 +29533,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Kick/Kick 606 Mod.wav" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Kick/Kick 606 Mod.wav" />
@@ -31695,7 +31695,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="14">
+																												<FileRef Id="15">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
@@ -36177,7 +36177,7 @@
 								</MacroControls.2>
 								<MacroControls.3>
 									<LomId Value="0" />
-									<Manual Value="47.6791954" />
+									<Manual Value="127" />
 									<MidiControllerRange>
 										<Min Value="0" />
 										<Max Value="127" />
@@ -39449,8 +39449,8 @@
 					</AudioInputRouting>
 					<MidiInputRouting>
 						<Target Value="MidiIn/External.All/-1" />
-						<UpperDisplayString Value="Ext: All Ins" />
-						<LowerDisplayString Value="" />
+						<UpperDisplayString Value="All Ins" />
+						<LowerDisplayString Value="All Channels" />
 						<MpeSettings>
 							<ZoneType Value="0" />
 							<FirstNoteChannel Value="1" />
