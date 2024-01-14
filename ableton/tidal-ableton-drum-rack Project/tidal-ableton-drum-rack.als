@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ableton MajorVersion="5" MinorVersion="11.0_11300" SchemaChangeCount="3" Creator="Ableton Live 11.3.13" Revision="b376a4ffe2734bb43bb06f3a36871bb868ae2231">
 	<LiveSet>
-		<NextPointeeId Value="25625" />
+		<NextPointeeId Value="25666" />
 		<OverwriteProtectionNumber Value="2819" />
 		<LomId Value="0" />
 		<LomIdView Value="0" />
@@ -1140,7 +1140,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -3299,7 +3299,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -5458,7 +5458,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -7617,7 +7617,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="56">
+																												<FileRef Id="57">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Snare/Snare 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Snare/Snare 606.aif" />
@@ -10081,7 +10081,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Combo 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Combo 606.aif" />
@@ -12242,7 +12242,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
@@ -14404,7 +14404,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
@@ -16565,7 +16565,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
@@ -18727,7 +18727,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Closed 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Closed 606.aif" />
@@ -20888,7 +20888,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Low.aif" />
@@ -23050,7 +23050,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Hihat/Hihat Open 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Hihat/Hihat Open 606.aif" />
@@ -25211,7 +25211,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Tom/Tom 606 Hi.aif" />
@@ -27199,7 +27199,7 @@
 											<Annotation Value="" />
 											<MemorizedFirstClipName Value="" />
 										</Name>
-										<IsSelected Value="true" />
+										<IsSelected Value="false" />
 										<DeviceChain>
 											<MidiToAudioDeviceChain Id="0">
 												<Devices>
@@ -27372,7 +27372,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Kick/Kick 606.wav" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Kick/Kick 606.wav" />
@@ -29533,7 +29533,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Kick/Kick 606 Mod.wav" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Kick/Kick 606 Mod.wav" />
@@ -31695,7 +31695,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="15">
+																												<FileRef Id="16">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
 																													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Samples/One Shots/Drums/Cymbal/Cymbal 606.aif" />
@@ -39378,6 +39378,394 @@
 								<DrumPadsListWrapper LomId="0" />
 								<VisibleDrumPadsListWrapper LomId="0" />
 							</DrumGroupDevice>
+							<Delay Id="1">
+								<LomId Value="0" />
+								<LomIdView Value="0" />
+								<IsExpanded Value="true" />
+								<On>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="25625">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</On>
+								<ModulationSourceCount Value="0" />
+								<ParametersListWrapper LomId="0" />
+								<Pointee Id="25626" />
+								<LastSelectedTimeableIndex Value="0" />
+								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastPresetRef>
+									<Value>
+										<AbletonDefaultPresetRef Id="2">
+											<FileRef>
+												<RelativePathType Value="5" />
+												<RelativePath Value="Devices/Audio Effects/Delay" />
+												<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Devices/Audio Effects/Delay" />
+												<Type Value="2" />
+												<LivePackName Value="Core Library" />
+												<LivePackId Value="www.ableton.com/0" />
+												<OriginalFileSize Value="0" />
+												<OriginalCrc Value="0" />
+											</FileRef>
+											<DeviceId Name="" />
+										</AbletonDefaultPresetRef>
+									</Value>
+								</LastPresetRef>
+								<LockedScripts />
+								<IsFolded Value="false" />
+								<ShouldShowPresetName Value="true" />
+								<UserName Value="" />
+								<Annotation Value="" />
+								<SourceContext>
+									<Value>
+										<BranchSourceContext Id="0">
+											<OriginalFileRef>
+												<FileRef Id="0">
+													<RelativePathType Value="5" />
+													<RelativePath Value="Devices/Audio Effects/Delay" />
+													<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Devices/Audio Effects/Delay" />
+													<Type Value="2" />
+													<LivePackName Value="Core Library" />
+													<LivePackId Value="www.ableton.com/0" />
+													<OriginalFileSize Value="0" />
+													<OriginalCrc Value="0" />
+												</FileRef>
+											</OriginalFileRef>
+											<BrowserContentPath Value="query:AudioFx#Delay%20&amp;%20Loop:Delay" />
+											<PresetRef>
+												<AbletonDefaultPresetRef Id="0">
+													<FileRef>
+														<RelativePathType Value="5" />
+														<RelativePath Value="Devices/Audio Effects/Delay" />
+														<Path Value="/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/Core Library/Devices/Audio Effects/Delay" />
+														<Type Value="2" />
+														<LivePackName Value="Core Library" />
+														<LivePackId Value="www.ableton.com/0" />
+														<OriginalFileSize Value="0" />
+														<OriginalCrc Value="0" />
+													</FileRef>
+													<DeviceId Name="" />
+												</AbletonDefaultPresetRef>
+											</PresetRef>
+											<BranchDeviceId Value="" />
+										</BranchSourceContext>
+									</Value>
+								</SourceContext>
+								<OverwriteProtectionNumber Value="2819" />
+								<DelayLine_SmoothingMode>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<AutomationTarget Id="25627">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SmoothingMode>
+								<DelayLine_Link>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="25628">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_Link>
+								<DelayLine_PingPong>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="25629">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_PingPong>
+								<DelayLine_SyncL>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="25630">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_SyncL>
+								<DelayLine_SyncR>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="25631">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_SyncR>
+								<DelayLine_TimeL>
+									<LomId Value="0" />
+									<Manual Value="0.3749999404" />
+									<MidiControllerRange>
+										<Min Value="0.001000000047" />
+										<Max Value="5" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25632">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25633">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_TimeL>
+								<DelayLine_TimeR>
+									<LomId Value="0" />
+									<Manual Value="0.3749999404" />
+									<MidiControllerRange>
+										<Min Value="0.001000000047" />
+										<Max Value="5" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25634">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25635">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_TimeR>
+								<DelayLine_SimpleDelayTimeL>
+									<LomId Value="0" />
+									<Manual Value="100" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="300" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25636">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25637">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_SimpleDelayTimeL>
+								<DelayLine_SimpleDelayTimeR>
+									<LomId Value="0" />
+									<Manual Value="100" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="300" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25638">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25639">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_SimpleDelayTimeR>
+								<DelayLine_PingPongDelayTimeL>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="999" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25640">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25641">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_PingPongDelayTimeL>
+								<DelayLine_PingPongDelayTimeR>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="999" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25642">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25643">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_PingPongDelayTimeR>
+								<DelayLine_SyncedSixteenthL>
+									<LomId Value="0" />
+									<Manual Value="2" />
+									<AutomationTarget Id="25644">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SyncedSixteenthL>
+								<DelayLine_SyncedSixteenthR>
+									<LomId Value="0" />
+									<Manual Value="2" />
+									<AutomationTarget Id="25645">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SyncedSixteenthR>
+								<DelayLine_OffsetL>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="-0.3330000043" />
+										<Max Value="0.3330000043" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25646">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25647">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_OffsetL>
+								<DelayLine_OffsetR>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="-0.3330000043" />
+										<Max Value="0.3330000043" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25648">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25649">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_OffsetR>
+								<DelayLine_CompatibilityMode Value="0" />
+								<Feedback>
+									<LomId Value="0" />
+									<Manual Value="0.7539682388" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="0.9499999881" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25650">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25651">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Feedback>
+								<Freeze>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="25652">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</Freeze>
+								<Filter_On>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="25653">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</Filter_On>
+								<Filter_Frequency>
+									<LomId Value="0" />
+									<Manual Value="999.999878" />
+									<MidiControllerRange>
+										<Min Value="49.9999962" />
+										<Max Value="18000.0059" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25654">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25655">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Filter_Frequency>
+								<Filter_Bandwidth>
+									<LomId Value="0" />
+									<Manual Value="8" />
+									<MidiControllerRange>
+										<Min Value="0.5" />
+										<Max Value="9" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25656">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25657">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Filter_Bandwidth>
+								<Modulation_Frequency>
+									<LomId Value="0" />
+									<Manual Value="0.5" />
+									<MidiControllerRange>
+										<Min Value="0.01000000071" />
+										<Max Value="39.9999962" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25658">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25659">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_Frequency>
+								<Modulation_AmountTime>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25660">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25661">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_AmountTime>
+								<Modulation_AmountFilter>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25662">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25663">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_AmountFilter>
+								<DryWet>
+									<LomId Value="0" />
+									<KeyMidi>
+										<PersistentKeyString Value="" />
+										<IsNote Value="false" />
+										<Channel Value="0" />
+										<NoteOrController Value="1" />
+										<LowerRangeNote Value="-1" />
+										<UpperRangeNote Value="-1" />
+										<ControllerMapMode Value="0" />
+									</KeyMidi>
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="25664">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="25665">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DryWet>
+								<DryWetMode Value="1" />
+								<EcoProcessing Value="false" />
+							</Delay>
 						</Devices>
 						<SignalModulations />
 					</DeviceChain>
